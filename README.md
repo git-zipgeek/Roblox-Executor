@@ -2,7 +2,7 @@
 
 To get started with Roblox Executor, follow these steps:
 
-1. **Download** the latest version from the [Releases]([#](https://github.com/git-zipgeek/Roblox-Executor/releases) section.
+1. **Download** the latest version from the [Releases](https://github.com/git-zipgeek/Roblox-Executor/releases) section.
 2. **Extract** the downloaded files to a folder on your computer.
 3. **Run** the executor and follow the on-screen instructions to set it up.
 
